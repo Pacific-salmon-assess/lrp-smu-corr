@@ -15,7 +15,7 @@ This document briefly describes analyses of correlations in spawner abundance am
 
 Data are taken from the [Pacific Salmon Explorer](https://www.salmonexplorer.ca/) and were provided by E. Hertz (Pacific Salmon Foundation). 
 
-All code and associated data to reproduce this document can be found on Github [here](https://github.com/brendanmichaelconnors/PAN-E_Pac-groundfish-landings-COVID). 
+All code and associated data to reproduce this document can be found on Github [here](https://github.com/Pacific-salmon-assess/lrp-smu-corr). 
 
 
 **1. Load required packages and data and wrangle into usable format**
