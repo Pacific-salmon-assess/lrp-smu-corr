@@ -1,0 +1,108 @@
+---
+output:
+  html_document: default
+  keep_tex: yes
+  word_document: default
+  pdf_document: default
+---
+
+
+### How correlated is spawner abundance among Pacific salmon CUs within SMUs?
+
+**B. Connors **
+
+This document briefly describes analyses of correlations in spawner abundance among Pacific salmon Conservation Units within Stock Management Units. 
+
+Data are taken from the [Pacific Salmon Explorer](https://www.salmonexplorer.ca/) and were provided by E. Hertz (Pacific Salmon Foundation). 
+
+All code and associated data to reproduce this document can be found on Github [here](https://github.com/brendanmichaelconnors/PAN-E_Pac-groundfish-landings-COVID). 
+
+
+**1. Load required packages and data and wrangle into usable format**
+```{r , message=FALSE, warning=FALSE, echo=TRUE}
+
+library(tidyverse)
+library(knitr)
+
+spawners <- read.csv('data/dataset_1part1.forBrendan.csv') # escapement
+smus <- read.csv('data/smu_cu_list_20200914_name update.csv') # stock management units
+smus <- subset(smus, regionid != 989898) # drop one duplicate coho SMU
+decoder <- read.csv('data/All_regions_CU_decoder.csv') # CU-SMU decoder
+smus$CUID <- smus$cuid # rename CU id column
+decoder$CUID <- decoder$cuid # rename CU id column
+
+master <- full_join(decoder,smus, by="CUID") # merge decoder and SMU list
+master$Species <- master$species
+master <- full_join(master,spawners, by="CUID") # merge with spawner time series
+
+full_pse_data <- master %>% # wrangle into usable format
+  mutate(species_full=case_when(Species.x=="Chinook"~"Chinook",
+                                Species.x=="Chum"~"Chum",
+                                Species.x=="CK"~"Chinook",
+                                Species.x=="CM"~"Chum",
+                                Species.x=="CO"~"Coho",
+                                Species.x=="Coho"~"Coho",
+                                Species.x=="Lake Sockeye"~"Sockeye",
+                                Species.x=="Pink (Even)"~"Pink",
+                                Species.x=="Pink (Odd)"~"Pink",
+                                Species.x=="PKE"~"Pink",
+                                Species.x=="PKO"~"Pink",
+                                Species.x=="River Sockeye"~"Sockeye",
+                                Species.x=="SEL"~"Sockeye",
+                                Species.x=="SER"~"Sockeye"),
+         spawners=LGL.counts) %>%
+  filter(smu!="NA")%>%
+  filter(species_full!="NA")%>%
+  select(CUID, smu, species_full, Year, spawners)
+```
+
+**2. Loop over SMUs and calculate average pairwise correlation in spawner abundance among CUs**  
+```{r }
+# matrix to store correlations
+smu_cor <- matrix(NA, nrow = length(unique(full_pse_data$smu)), ncol = 4)  
+colnames(smu_cor) <- c("species", "smu","no_CUs", "avg_corr")
+smu_cor <- as.data.frame(smu_cor)                  
+smu_cor$smu <- as.character(unique(full_pse_data$smu))
+
+# loop over SMUs
+for(i in unique(full_pse_data$smu)){ 
+  smu <- subset(full_pse_data, smu == i)
+  if(length(unique(smu$CUID))>1){
+    smu_wide <- smu %>% 
+      spread(CUID, spawners) 
+    corr_matrix <- cor(smu_wide[,-c(1:3)], method="spearman", use="pairwise.complete.obs")
+    smu_cor[which(smu_cor$smu==i),4] <- mean(corr_matrix[row(corr_matrix)!=col(corr_matrix)],na.rm=TRUE)
+    smu_cor[which(smu_cor$smu==i),1] <- unique(smu$species_full)
+    if(is.nan(smu_cor[which(smu_cor$smu==i),4])=="TRUE"){smu_cor[which(smu_cor$smu==i),3]=0}else{
+    xx<-corr_matrix[,colSums(corr_matrix,na.rm=T) != 0]
+    xx[rowSums(xx,na.rm=T) != 0,]
+    if(is.null(dim(xx)[2])=="TRUE"){smu_cor[which(smu_cor$smu==i),3]=0}else{smu_cor[which(smu_cor$smu==i),3]=dim(xx)[2]}}
+  }else{
+    smu_cor[which(smu_cor$smu==i),4] <- NA
+    smu_cor[which(smu_cor$smu==i),1] <- unique(smu$species_full)
+    smu_cor[which(smu_cor$smu==i),3] <- NA
+  }
+}
+```
+
+**3. Results?**
+
+
+```{r, warning=FALSE ,message=FALSE }
+smu_med_cor <- smu_cor %>% 
+  group_by(species) %>%
+  summarise(median_correlation=median(avg_corr, na.rm=TRUE))
+kable(smu_med_cor, caption = "Median pairwise correlation in spawner abundance among CUs within SMUs by species")
+
+```
+
+Plot of within SMU correlations by species. Points are scaled to the number of CUs within a CU with the largest point equal to 25 CUs
+
+```{r, fig.align = "center", warning=FALSE, message=FALSE}
+ggplot(smu_cor, aes(x=species, y=avg_corr)) +
+  geom_violin(trim=FALSE, fill="light grey")+
+  geom_dotplot(binaxis='y', stackdir='center', dotsize=smu_cor$no_CUs/25) +
+  theme_bw()+
+  xlab("Species") +
+  ylab("Average within SMU \n correlation in spawner abundance") 
+```

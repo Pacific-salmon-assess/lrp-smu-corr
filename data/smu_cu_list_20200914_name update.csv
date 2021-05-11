@@ -1,0 +1,334 @@
+cuid,pooledcuid,regionname,regionid,smuid,smu,culabel
+512,512,Central Coast,3,4,Central Coast Chinook Salmon,Bella Coola-Bentinck
+513,513,Central Coast,3,4,Central Coast Chinook Salmon,Dean River
+509,509,Central Coast,3,4,Central Coast Chinook Salmon,Docee
+515,515,Central Coast,3,4,Central Coast Chinook Salmon,North & Central Coast-Early
+514,514,Central Coast,3,4,Central Coast Chinook Salmon,North & Central Coast-Late
+401,401,Nass,2,4,Central Coast Chinook Salmon,Portland Sound-Observatory Inlet-Lower Nass
+510,510,Central Coast,3,4,Central Coast Chinook Salmon,Rivers Inlet
+224,224,Skeena,1,4,Central Coast Chinook Salmon,Skeena Estuary
+511,511,Central Coast,3,4,Central Coast Chinook Salmon,Wannock
+504,504,Central Coast,3,5,Central Coast Chum Salmon,Bella Coola-Dean Rivers
+505,505,Central Coast,3,5,Central Coast Chum Salmon,Bella Coola River-Late
+508,508,Central Coast,3,5,Central Coast Chum Salmon,Douglas-Gardner
+506,506,Central Coast,3,5,Central Coast Chum Salmon,Hecate Lowlands
+507,507,Central Coast,3,5,Central Coast Chum Salmon,Mussel-Kynoch
+501,501,Central Coast,3,5,Central Coast Chum Salmon,Rivers Inlet
+500,500,Central Coast,3,5,Central Coast Chum Salmon,Smith Inlet
+503,503,Central Coast,3,5,Central Coast Chum Salmon,Spiller-Fitz-Hugh-Burke
+502,502,Central Coast,3,5,Central Coast Chum Salmon,Wannock
+518,518,Central Coast,3,6,Central Coast Coho Salmon,Bella Coola-Dean Rivers
+521,521,Central Coast,3,6,Central Coast Coho Salmon,Brim-Wahoo
+522,522,Central Coast,3,6,Central Coast Coho Salmon,Douglas Channel-Kitimat Arm
+520,520,Not applicable,989898,6,Central Coast Coho Salmon,Hecate Strait Mainland
+520,520,Central Coast,3,6,Central Coast Coho Salmon,Hecate Strait Mainland
+519,519,Central Coast,3,6,Central Coast Coho Salmon,Mussel-Kynoch
+523,523,Central Coast,3,6,Central Coast Coho Salmon,Northern Coastal Streams
+517,517,Central Coast,3,6,Central Coast Coho Salmon,Rivers Inlet
+516,516,Central Coast,3,6,Central Coast Coho Salmon,Smith Inlet
+608,608,Central Coast,3,8,Central Coast Pink Salmon,Hecate Lowlands (even)
+609,609,Central Coast,3,8,Central Coast Pink Salmon,Hecate Strait-Fjords (even)
+612,612,Central Coast,3,8,Central Coast Pink Salmon,Hecate Strait-Fjords (odd)
+611,611,Central Coast,3,8,Central Coast Pink Salmon,Hecate Strait-Lowlands (odd)
+610,610,Central Coast,3,8,Central Coast Pink Salmon,Homathko-Klinaklini-Smith-Rivers-Bella Coola-Dean (odd)
+613,613,Central Coast,3,8,Central Coast Sockeye Salmon ,Rivers-Smith Inlets (river-type)
+529,529,Central Coast,3,7,Central Coast Sockeye Salmon ,Backland
+540,540,Central Coast,3,7,Central Coast Sockeye Salmon ,Banks
+541,541,Central Coast,3,7,Central Coast Sockeye Salmon ,Bloomfield
+542,542,Central Coast,3,7,Central Coast Sockeye Salmon ,Bolton Creek
+543,543,Central Coast,3,7,Central Coast Sockeye Salmon ,Bonilla
+544,544,Central Coast,3,7,Central Coast Sockeye Salmon ,Borrowman Creek
+545,545,Central Coast,3,7,Central Coast Sockeye Salmon ,Busey Creek
+532,532,Central Coast,3,7,Central Coast Sockeye Salmon ,Canoona
+546,546,Central Coast,3,7,Central Coast Sockeye Salmon ,Cartwright Creek
+547,547,Central Coast,3,7,Central Coast Sockeye Salmon ,Chic Chic
+548,548,Central Coast,3,7,Central Coast Sockeye Salmon ,Citeyats
+550,550,Central Coast,3,7,Central Coast Sockeye Salmon ,Curtis Inlet
+551,551,Central Coast,3,7,Central Coast Sockeye Salmon ,Dallain Creek
+552,552,Central Coast,3,7,Central Coast Sockeye Salmon ,Deer
+553,553,Central Coast,3,7,Central Coast Sockeye Salmon ,Devon
+533,533,Central Coast,3,7,Central Coast Sockeye Salmon ,Dome
+554,554,Central Coast,3,7,Central Coast Sockeye Salmon ,Douglas Creek
+555,555,Central Coast,3,7,Central Coast Sockeye Salmon ,Elizabeth
+556,556,Central Coast,3,7,Central Coast Sockeye Salmon ,Elsie/Hoy
+557,557,Central Coast,3,7,Central Coast Sockeye Salmon ,End Hill Creek
+534,534,Central Coast,3,7,Central Coast Sockeye Salmon ,Evelyn
+558,558,Central Coast,3,7,Central Coast Sockeye Salmon ,Evinrude Inlet
+549,549,Central Coast,3,7,Central Coast Sockeye Salmon ,Fannie Cove
+559,559,Central Coast,3,7,Central Coast Sockeye Salmon ,Freeda
+560,560,Central Coast,3,7,Central Coast Sockeye Salmon ,Hartley Bay
+561,561,Central Coast,3,7,Central Coast Sockeye Salmon ,Hevenor Inlet
+562,562,Central Coast,3,7,Central Coast Sockeye Salmon ,Higgins Lagoon
+563,563,Central Coast,3,7,Central Coast Sockeye Salmon ,Kadjusdis River
+535,535,Central Coast,3,7,Central Coast Sockeye Salmon ,Kainet Creek
+564,564,Central Coast,3,7,Central Coast Sockeye Salmon ,Kdelmashan Creek
+565,565,Central Coast,3,7,Central Coast Sockeye Salmon ,Keecha
+566,566,Central Coast,3,7,Central Coast Sockeye Salmon ,Kent Inlet Lagoon Creek
+567,567,Central Coast,3,7,Central Coast Sockeye Salmon ,Kenzuwash Creeks
+568,568,Central Coast,3,7,Central Coast Sockeye Salmon ,Keswar Creek
+569,569,Central Coast,3,7,Central Coast Sockeye Salmon ,Kildidt Creek
+570,570,Central Coast,3,7,Central Coast Sockeye Salmon ,Kildidt Lagoon Creek
+536,536,Central Coast,3,7,Central Coast Sockeye Salmon ,Kimsquit
+571,571,Central Coast,3,7,Central Coast Sockeye Salmon ,Kisameet
+537,537,Central Coast,3,7,Central Coast Sockeye Salmon ,Kitkiata
+538,538,Central Coast,3,7,Central Coast Sockeye Salmon ,Kitlope
+572,572,Central Coast,3,7,Central Coast Sockeye Salmon ,Koeye
+573,573,Central Coast,3,7,Central Coast Sockeye Salmon ,Kooryet
+574,574,Central Coast,3,7,Central Coast Sockeye Salmon ,Kunsoot River
+575,575,Central Coast,3,7,Central Coast Sockeye Salmon ,Kwakwa Creek
+576,576,Central Coast,3,7,Central Coast Sockeye Salmon ,Lewis Creek
+577,577,Central Coast,3,7,Central Coast Sockeye Salmon ,Limestone Creek
+578,578,Central Coast,3,7,Central Coast Sockeye Salmon ,Lowe/Simpson/Weir
+579,579,Central Coast,3,7,Central Coast Sockeye Salmon ,Mary Cove Creek
+580,580,Central Coast,3,7,Central Coast Sockeye Salmon ,Mcdonald Creek
+581,581,Central Coast,3,7,Central Coast Sockeye Salmon ,Mcloughlin
+582,582,Central Coast,3,7,Central Coast Sockeye Salmon ,Mikado
+583,583,Central Coast,3,7,Central Coast Sockeye Salmon ,Monckton Inlet Creek
+584,584,Central Coast,3,7,Central Coast Sockeye Salmon ,Namu
+615,615,Central Coast,3,7,Central Coast Sockeye Salmon ,Northern Coastal Streams (river-type)
+614,614,Central Coast,3,7,Central Coast Sockeye Salmon ,Northern Coastal Fjords (river-type)
+539,539,Central Coast,3,7,Central Coast Sockeye Salmon ,Pine River
+585,585,Central Coast,3,7,Central Coast Sockeye Salmon ,Port John
+586,586,Central Coast,3,7,Central Coast Sockeye Salmon ,Powles Creek
+587,587,Central Coast,3,7,Central Coast Sockeye Salmon ,Price Creek
+588,588,Central Coast,3,7,Central Coast Sockeye Salmon ,Roderick
+589,589,Central Coast,3,7,Central Coast Sockeye Salmon ,Ryan Creek
+590,590,Central Coast,3,7,Central Coast Sockeye Salmon ,Salter
+591,591,Central Coast,3,7,Central Coast Sockeye Salmon ,Scoular/Kilpatrick
+592,592,Central Coast,3,7,Central Coast Sockeye Salmon ,Sheneeza Inlet
+593,593,Central Coast,3,7,Central Coast Sockeye Salmon ,Ship Point Creek
+530,530,Central Coast,3,7,Central Coast Sockeye Salmon ,Soda Creek
+594,594,Central Coast,3,7,Central Coast Sockeye Salmon ,Spencer Creek
+595,595,Central Coast,3,7,Central Coast Sockeye Salmon ,Stannard Creek
+596,596,Central Coast,3,7,Central Coast Sockeye Salmon ,Talamoosa Creek
+597,597,Central Coast,3,7,Central Coast Sockeye Salmon ,Tankeeah River
+598,598,Central Coast,3,7,Central Coast Sockeye Salmon ,Treneman Creek
+599,599,Central Coast,3,7,Central Coast Sockeye Salmon ,Tsimtack/Moore/Roger
+600,600,Central Coast,3,7,Central Coast Sockeye Salmon ,Tuno Creek East
+601,601,Central Coast,3,7,Central Coast Sockeye Salmon ,Tuno Creek West
+602,602,Central Coast,3,7,Central Coast Sockeye Salmon ,Tyler Creek
+603,603,Central Coast,3,7,Central Coast Sockeye Salmon ,Wale Creek
+604,604,Central Coast,3,7,Central Coast Sockeye Salmon ,Watt Bay
+605,605,Central Coast,3,7,Central Coast Sockeye Salmon ,West Creek
+606,606,Central Coast,3,7,Central Coast Sockeye Salmon ,Yaaklele Lagoon
+607,607,Central Coast,3,7,Central Coast Sockeye Salmon ,Yeo
+921,921,Vancouver Island & Mainland Inlets,5,9,ECVI/Mainland Pink Salmon,East Howe Sound-Burrard Inlet (odd)
+923,923,Vancouver Island & Mainland Inlets,5,9,ECVI/Mainland Pink Salmon,East Vancouver Island-Johnstone Strait (odd)
+922,922,Vancouver Island & Mainland Inlets,5,9,ECVI/Mainland Pink Salmon,Georgia Strait (odd)
+917,917,Vancouver Island & Mainland Inlets,5,9,ECVI/Mainland Pink Salmon,Georgia Strait (even)
+924,924,Vancouver Island & Mainland Inlets,5,9,ECVI/Mainland Pink Salmon,Nahwitti (odd)
+926,926,Vancouver Island & Mainland Inlets,5,9,ECVI/Mainland Pink Salmon,Southern Fjords (odd)
+920,920,Vancouver Island & Mainland Inlets,5,9,ECVI/Mainland Pink Salmon,Southern Fjords (even)
+927,927,Vancouver Island & Mainland Inlets,5,11,ECVI/Mainland Sockeye Salmon ,Fulmore
+928,928,Vancouver Island & Mainland Inlets,5,11,ECVI/Mainland Sockeye Salmon ,Heydon
+937,937,Vancouver Island & Mainland Inlets,5,11,ECVI/Mainland Sockeye Salmon ,Ida-Bonanza
+929,929,Vancouver Island & Mainland Inlets,5,11,ECVI/Mainland Sockeye Salmon ,Kakweiken
+930,930,Vancouver Island & Mainland Inlets,5,11,ECVI/Mainland Sockeye Salmon ,Loose
+931,931,Vancouver Island & Mainland Inlets,5,11,ECVI/Mainland Sockeye Salmon ,Mackenzie
+938,938,Vancouver Island & Mainland Inlets,5,11,ECVI/Mainland Sockeye Salmon ,Nahwitti
+939,939,Vancouver Island & Mainland Inlets,5,11,ECVI/Mainland Sockeye Salmon ,Nimpkish
+932,932,Vancouver Island & Mainland Inlets,5,11,ECVI/Mainland Sockeye Salmon ,Phillips
+941,941,Vancouver Island & Mainland Inlets,5,11,ECVI/Mainland Sockeye Salmon ,Quatse
+933,933,Vancouver Island & Mainland Inlets,5,11,ECVI/Mainland Sockeye Salmon ,Sakinaw
+942,942,Vancouver Island & Mainland Inlets,5,11,ECVI/Mainland Sockeye Salmon ,Schoen
+943,943,Vancouver Island & Mainland Inlets,5,11,ECVI/Mainland Sockeye Salmon ,Shushartie
+935,935,Vancouver Island & Mainland Inlets,5,11,ECVI/Mainland Sockeye Salmon ,Tzoonie
+976,976,Vancouver Island & Mainland Inlets,5,11,ECVI/Mainland Sockeye Salmon ,Vernon
+936,936,Vancouver Island & Mainland Inlets,5,11,ECVI/Mainland Sockeye Salmon ,Village Bay
+944,944,Vancouver Island & Mainland Inlets,5,11,ECVI/Mainland Sockeye Salmon ,Woss
+701,701,Fraser,4,12,Fraser Chum Salmon,Lower Fraser
+303,303,Fraser,4,13,Fraser Fall Run 4~2~ Chinook Salmon,Lower Fraser River (Fall 4-1)
+710,710,Fraser,4,14,Fraser Pink Salmon - Odd,Fraser River (odd)
+719,719,Fraser,4,15,Fraser Sockeye Salmon - Early Summer,Anderson-Seton-Early Summer
+735,735,Fraser,4,15,Fraser Sockeye Salmon - Early Summer,Bowron-Early Summer
+720,720,Fraser,4,15,Fraser Sockeye Salmon - Early Summer,Chilko-Early Summer
+711,711,Fraser,4,15,Fraser Sockeye Salmon - Early Summer,Chilliwack-Early Summer (cyclic)
+740,740,Fraser,4,15,Fraser Sockeye Salmon - Early Summer,Kamloops-Early Summer
+727,727,Fraser,4,15,Fraser Sockeye Salmon - Early Summer,Nadina-Francois-Early Summer
+718,718,Fraser,4,15,Fraser Sockeye Salmon - Early Summer,Nahatlatch-Early Summer
+752,752,Fraser,4,15,Fraser Sockeye Salmon - Early Summer,North Barriere-Early Summer (de novo)
+715,715,Fraser,4,15,Fraser Sockeye Salmon - Early Summer,Pitt-Early Summer
+738,738,Fraser,4,15,Fraser Sockeye Salmon - Early Summer,Shuswap-Early Summer (cyclic)
+734,734,Fraser,4,15,Fraser Sockeye Salmon - Early Summer,Taseko-Early Summer
+712,712,Fraser,4,16,Fraser Sockeye Salmon - Late,Cultus-Late
+713,713,Fraser,4,16,Fraser Sockeye Salmon - Late,Harrison-Downstream Migrating-Late
+714,714,Fraser,4,16,Fraser Sockeye Salmon - Late,Harrison-Upstream Migrating-Late
+716,716,Fraser,4,16,Fraser Sockeye Salmon - Late,Lillooet-Harrison-Late
+729,729,Fraser,4,16,Fraser Sockeye Salmon - Late,Seton-Late (de novo)
+739,739,Fraser,4,16,Fraser Sockeye Salmon - Late,Shuswap-Late (cyclic)
+721,721,Fraser,4,17,Fraser Sockeye Salmon - Summer,Chilko-Summer
+725,725,Fraser,4,17,Fraser Sockeye Salmon - Summer,Francois-Fraser-Summer
+745,745,Fraser,4,17,Fraser Sockeye Salmon - Summer,Harrison River (river-type)
+728,728,Fraser,4,17,Fraser Sockeye Salmon - Summer,Quesnel-Summer (cyclic)
+731,731,Fraser,4,17,Fraser Sockeye Salmon - Summer,Takla-Trembleur-Stuart-Summer (cyclic)
+742,742,Fraser,4,17,Fraser Sockeye Salmon - Summer,Widgeon (river-type)
+732,732,Fraser,4,18,Fraser Sockeye Salmon -Early Stuart,Takla-Trembleur-Early Stuart (cyclic)
+316,316,Fraser,4,19,Fraser Spring Run 4-2 Chinook Salmon,South Thompson River-Bessette Creek (Summer 4-2)
+317,317,Fraser,4,19,Fraser Spring Run 4-2 Chinook Salmon,Lower Thompson River (Spring 4-2)
+304,304,Fraser,4,20,Fraser Spring Run 5-2 Chinook Salmon,Lower Fraser River (Spring 5-2)
+305,305,Fraser,4,20,Fraser Spring Run 5-2 Chinook Salmon,Lower Fraser River-Upper Pitt (Summer 5-2)
+308,308,Fraser,4,20,Fraser Spring Run 5-2 Chinook Salmon,Fraser Canyon-Nahatlatch (Spring 5-2)
+310,310,Fraser,4,20,Fraser Spring Run 5-2 Chinook Salmon,Middle Fraser River (Spring 5-2)
+312,312,Fraser,4,20,Fraser Spring Run 5-2 Chinook Salmon,Upper Fraser River (Spring 5-2)
+318,318,Fraser,4,20,Fraser Spring Run 5-2 Chinook Salmon,North Thompson River (Spring 5-2)
+307,307,Fraser,4,21,Fraser Summer Run 4-1 Chinook Salmon,Lower Fraser River-Maria Slough (Summer 4-1)
+313,313,Fraser,4,21,Fraser Summer Run 4-1 Chinook Salmon,South Thompson River (Summer 4-1)
+315,315,Fraser,4,21,Fraser Summer Run 4-1 Chinook Salmon,Shuswap River (Summer 4-1)
+333,333,Fraser,4,21,Fraser Summer Run 4-1 Chinook Salmon,South Thompson-Adams River Upper
+306,306,Fraser,4,22,Fraser Summer Run 5-2 Chinook Salmon,Lower Fraser River (Summer 5-2)
+309,309,Fraser,4,22,Fraser Summer Run 5-2 Chinook Salmon,Middle Fraser River-Portage (Fall 5-2)
+311,311,Fraser,4,22,Fraser Summer Run 5-2 Chinook Salmon,Middle Fraser River (Summer 5-2)
+314,314,Fraser,4,22,Fraser Summer Run 5-2 Chinook Salmon,South Thompson River (Summer 5-2)
+319,319,Fraser,4,22,Fraser Summer Run 5-2 Chinook Salmon,North Thompson River (Summer 5-2)
+302,302,Fraser,4,23,Georgia Strait Chinook Salmon,Boundary Bay (Fall 4-1)
+322,322,Vancouver Island & Mainland Inlets,5,23,Georgia Strait Chinook Salmon,East Vancouver Island-Cowichan and Koksilah (Fall x-1)
+334,334,Vancouver Island & Mainland Inlets,5,23,Georgia Strait Chinook Salmon,East Vancouver Island-Georgia Strait (Summer 4-1)
+321,321,Vancouver Island & Mainland Inlets,5,23,Georgia Strait Chinook Salmon,East Vancouver Island-Goldstream (Fall x-1)
+323,323,Vancouver Island & Mainland Inlets,5,23,Georgia Strait Chinook Salmon,East Vancouver Island-Nanaimo (Spring x-2)
+324,324,Vancouver Island & Mainland Inlets,5,23,Georgia Strait Chinook Salmon,East Vancouver Island-Nanaimo and Chemainus (Fall x-1)
+325,325,Vancouver Island & Mainland Inlets,5,23,Georgia Strait Chinook Salmon,East Vancouver Island-Qualicum and Puntledge (Fall x-1)
+320,320,Vancouver Island & Mainland Inlets,5,23,Georgia Strait Chinook Salmon,Southern Mainland-Georgia Strait (Fall x-1)
+901,901,Vancouver Island & Mainland Inlets,5,29,Inner South Coast Chum Salmon,Bute Inlet
+904,904,Vancouver Island & Mainland Inlets,5,29,Inner South Coast Chum Salmon,Georgia Strait
+905,905,Vancouver Island & Mainland Inlets,5,29,Inner South Coast Chum Salmon,Howe Sound-Burrard Inlet
+902,902,Vancouver Island & Mainland Inlets,5,29,Inner South Coast Chum Salmon,Loughborough
+903,903,Vancouver Island & Mainland Inlets,5,29,Inner South Coast Chum Salmon,Northeast Vancouver Island
+900,900,Vancouver Island & Mainland Inlets,5,29,Inner South Coast Chum Salmon,Southern Coastal Streams
+705,705,Fraser,4,30,Interior Fraser Coho Salmon,Fraser Canyon
+749,749,Fraser,4,30,Interior Fraser Coho Salmon,Interior Fraser
+707,707,Fraser,4,30,Interior Fraser Coho Salmon,Lower Thompson
+709,709,Fraser,4,30,Interior Fraser Coho Salmon,North Thompson
+708,708,Fraser,4,30,Interior Fraser Coho Salmon,South Thompson
+327,327,Vancouver Island & Mainland Inlets,5,31,Johnstone Strait/Mainland Inlet Chinook Salmon,East Vancouver Island-North (Fall x-1)
+331,331,Vancouver Island & Mainland Inlets,5,31,Johnstone Strait/Mainland Inlet Chinook Salmon,Homathko (Summer x-x)
+332,332,Vancouver Island & Mainland Inlets,5,31,Johnstone Strait/Mainland Inlet Chinook Salmon,Klinaklini (Summer 5-2)
+326,326,Vancouver Island & Mainland Inlets,5,31,Johnstone Strait/Mainland Inlet Chinook Salmon,Southern Mainland-Southern Fjords (Fall x-1)
+911,911,Vancouver Island & Mainland Inlets,5,32,Johnstone Strait/Mainland Inlet Coho Salmon,East Vancouver Island-Johnstone Strait-Southern Fjords
+916,916,Vancouver Island & Mainland Inlets,5,32,Johnstone Strait/Mainland Inlet Coho Salmon,Homathko-Klinaklini Rivers
+912,912,Vancouver Island & Mainland Inlets,5,32,Johnstone Strait/Mainland Inlet Coho Salmon,Nahwitti Lowland
+909,909,Vancouver Island & Mainland Inlets,5,32,Johnstone Strait/Mainland Inlet Coho Salmon,Southern Coastal Streams-Queen Charlotte Strait-Johnstone Strait-Southern Fjords
+704,704,Fraser,4,33,Lower Fraser Coho Salmon,Lillooet
+750,750,Fraser,4,33,Lower Fraser Coho Salmon,Lower Fraser
+402,402,Nass,2,34,Nass Chinook Salmon,Upper Nass
+408,408,Nass,2,35,Nass Coho Salmon,Lower Nass
+410,410,Nass,2,35,Nass Coho Salmon,Portland Sound-Observatory Inlet-Portland Canal
+225,225,Skeena,1,35,Nass Coho Salmon,Skeena Estuary
+409,409,Nass,2,35,Nass Coho Salmon,Upper Nass
+420,420,Nass,2,36,Nass Sockeye Salmon,Bowser
+181,181,Skeena,1,36,Nass Sockeye Salmon,Bulkley/Maxan
+184,181,Skeena,1,36,Nass Sockeye Salmon,Bulkley/Maxan
+421,421,Nass,2,36,Nass Sockeye Salmon,Damdochax
+422,422,Nass,2,36,Nass Sockeye Salmon,Fred Wright
+423,423,Nass,2,36,Nass Sockeye Salmon,Kwinageese
+426,426,Nass,2,36,Nass Sockeye Salmon,Lower Nass-Portland (river-type)
+424,424,Nass,2,36,Nass Sockeye Salmon,Meziadin
+425,425,Nass,2,36,Nass Sockeye Salmon,Oweegee
+427,427,Nass,2,36,Nass Sockeye Salmon,Upper Nass River (river-type)
+1300,1300,Columbia,7,38,Okanagan Sockeye Salmon,Osoyoos
+524,524,Central Coast,3,41,Rivers/Smith Sockeye Salmon,Long
+525,525,Central Coast,3,41,Rivers/Smith Sockeye Salmon,Owikeno
+528,528,Central Coast,3,41,Rivers/Smith Sockeye Salmon,South Atnarko Lakes
+527,527,Central Coast,3,41,Rivers/Smith Sockeye Salmon,Wannock (Owikeno)
+205,205,Skeena,1,42,Skeena Chinook Salmon,Ecstall
+206,206,Skeena,1,42,Skeena Chinook Salmon,Kalum-Early
+207,207,Skeena,1,42,Skeena Chinook Salmon,Kalum-Late
+227,227,Skeena,1,42,Skeena Chinook Salmon,Lakelse
+210,210,Skeena,1,42,Skeena Chinook Salmon,Lower Skeena
+222,222,Skeena,1,42,Skeena Chinook Salmon,Middle Skeena-Large Lakes
+217,217,Skeena,1,42,Skeena Chinook Salmon,Middle Skeena-Mainstem Tributaries
+241,241,Skeena,1,42,Skeena Chinook Salmon,Sicintine
+221,221,Skeena,1,42,Skeena Chinook Salmon,Upper Bulkley River
+212,212,Skeena,1,42,Skeena Chinook Salmon,Upper Skeena
+229,229,Skeena,1,42,Skeena Chinook Salmon,Zymoetz
+202,202,Skeena,1,43,Skeena Coho Salmon,Lower Skeena
+215,215,Skeena,1,43,Skeena Coho Salmon,Middle Skeena
+231,231,Skeena,1,43,Skeena Coho Salmon,Upper Skeena
+171,171,Skeena,1,44,Skeena Sockeye Salmon,Alastair
+190,190,Skeena,1,44,Skeena Sockeye Salmon,Asitika
+191,191,Skeena,1,44,Skeena Sockeye Salmon,Azuklotz
+203,203,Skeena,1,44,Skeena Sockeye Salmon,Babine (enhanced)
+204,203,Skeena,1,44,Skeena Sockeye Salmon,Babine (enhanced)
+180,180,Skeena,1,44,Skeena Sockeye Salmon,Babine/Onerka
+192,192,Skeena,1,44,Skeena Sockeye Salmon,Bear
+418,418,Nass,2,44,Skeena Sockeye Salmon,Clements
+193,193,Skeena,1,44,Skeena Sockeye Salmon,Damshilgwit
+174,174,Skeena,1,44,Skeena Sockeye Salmon,Ecstall/Lower
+230,230,Skeena,1,44,Skeena Sockeye Salmon,Footsore/Hodder
+183,183,Skeena,1,44,Skeena Sockeye Salmon,Gitanyow (Kitwanga/Kitwancool)
+194,194,Skeena,1,44,Skeena Sockeye Salmon,Johanson
+175,175,Skeena,1,44,Skeena Sockeye Salmon,Johnston
+176,176,Skeena,1,44,Skeena Sockeye Salmon,Kitsumkalum
+195,195,Skeena,1,44,Skeena Sockeye Salmon,Kluatantan
+196,196,Skeena,1,44,Skeena Sockeye Salmon,Kluayaz
+177,177,Skeena,1,44,Skeena Sockeye Salmon,Lakelse
+419,419,Nass,2,44,Skeena Sockeye Salmon,Leverson
+178,178,Skeena,1,44,Skeena Sockeye Salmon,Mcdonell/Dennis/Aldrich
+172,178,Skeena,1,44,Skeena Sockeye Salmon,Mcdonell/Dennis/Aldrich
+173,178,Skeena,1,44,Skeena Sockeye Salmon,Mcdonell/Dennis/Aldrich
+185,185,Skeena,1,44,Skeena Sockeye Salmon,Morice/Atna
+197,197,Skeena,1,44,Skeena Sockeye Salmon,Motase
+186,186,Skeena,1,44,Skeena Sockeye Salmon,Nilkitkwa
+198,198,Skeena,1,44,Skeena Sockeye Salmon,Sicintine
+226,226,Skeena,1,44,Skeena Sockeye Salmon,Skeena River (river-type)
+216,216,Skeena,1,44,Skeena Sockeye Salmon,Skeena River-High Interior (river-type)
+199,199,Skeena,1,44,Skeena Sockeye Salmon,Slamgeesh
+200,200,Skeena,1,44,Skeena Sockeye Salmon,Spawning
+187,187,Skeena,1,44,Skeena Sockeye Salmon,Stephens
+201,201,Skeena,1,44,Skeena Sockeye Salmon,Sustut
+182,188,Skeena,1,44,Skeena Sockeye Salmon,Swan/Club
+188,188,Skeena,1,44,Skeena Sockeye Salmon,Swan/Club
+189,189,Skeena,1,44,Skeena Sockeye Salmon,Tahlo/Morrison
+209,209,Skeena,1,45,Skeena/Nass Pink Salmon,Lower Skeena River (odd)
+218,218,Skeena,1,45,Skeena/Nass Pink Salmon,Middle-Upper Skeena (even)
+213,213,Skeena,1,45,Skeena/Nass Pink Salmon,Middle-Upper Skeena (odd)
+414,414,Nass,2,45,Skeena/Nass Pink Salmon,Nass-Portland-Observatory (odd)
+219,219,Skeena,1,45,Skeena/Nass Pink Salmon,Nass-Skeena Estuary (even)
+223,223,Skeena,1,45,Skeena/Nass Pink Salmon,Nass-Skeena Estuary (odd)
+412,412,Nass,2,45,Skeena/Nass Pink Salmon,Upper Nass (even)
+415,415,Nass,2,45,Skeena/Nass Pink Salmon,Upper Nass (odd)
+405,405,Nass,2,46,Skeena-Nass Chum Salmon,Lower Nass
+211,211,Skeena,1,46,Skeena-Nass Chum Salmon,Lower Skeena
+214,214,Skeena,1,46,Skeena-Nass Chum Salmon,Middle Skeena
+406,406,Nass,2,46,Skeena-Nass Chum Salmon,Portland Canal-Observatory
+404,404,Nass,2,46,Skeena-Nass Chum Salmon,Portland Inlet
+220,220,Skeena,1,46,Skeena-Nass Chum Salmon,Skeena Estuary
+906,906,Fraser,4,50,Strait Of Georgia Coho Salmon,Boundary Bay
+910,910,Vancouver Island & Mainland Inlets,5,50,Strait Of Georgia Coho Salmon,East Vancouver Island-Georgia Strait
+908,908,Vancouver Island & Mainland Inlets,5,50,Strait Of Georgia Coho Salmon,Georgia Strait Mainland
+907,907,Vancouver Island & Mainland Inlets,5,50,Strait Of Georgia Coho Salmon,Howe Sound-Burrard Inlet
+952,952,Vancouver Island & Mainland Inlets,5,55,WCVI - Barkley Sockeye Salmon,Great Central
+953,953,Vancouver Island & Mainland Inlets,5,55,WCVI - Barkley Sockeye Salmon,Henderson
+969,969,Vancouver Island & Mainland Inlets,5,55,WCVI - Barkley Sockeye Salmon,Sproat
+945,945,Vancouver Island & Mainland Inlets,5,59,WCVI - Other Sockeye Salmon,Alice
+946,946,Vancouver Island & Mainland Inlets,5,59,WCVI - Other Sockeye Salmon,Canoe Creek
+947,947,Vancouver Island & Mainland Inlets,5,59,WCVI - Other Sockeye Salmon,Cecilia
+948,948,Vancouver Island & Mainland Inlets,5,59,WCVI - Other Sockeye Salmon,Cheewat
+949,949,Vancouver Island & Mainland Inlets,5,59,WCVI - Other Sockeye Salmon,Clayoquot
+950,950,Vancouver Island & Mainland Inlets,5,59,WCVI - Other Sockeye Salmon,Deserted
+951,951,Vancouver Island & Mainland Inlets,5,59,WCVI - Other Sockeye Salmon,Fairy
+954,954,Vancouver Island & Mainland Inlets,5,59,WCVI - Other Sockeye Salmon,Hesquiat
+955,955,Vancouver Island & Mainland Inlets,5,59,WCVI - Other Sockeye Salmon,Hobiton
+956,956,Vancouver Island & Mainland Inlets,5,59,WCVI - Other Sockeye Salmon,Jansen
+957,957,Vancouver Island & Mainland Inlets,5,59,WCVI - Other Sockeye Salmon,Kanim
+958,958,Vancouver Island & Mainland Inlets,5,59,WCVI - Other Sockeye Salmon,Kennedy
+959,959,Vancouver Island & Mainland Inlets,5,59,WCVI - Other Sockeye Salmon,Maggie
+960,960,Vancouver Island & Mainland Inlets,5,59,WCVI - Other Sockeye Salmon,Megin
+961,961,Vancouver Island & Mainland Inlets,5,59,WCVI - Other Sockeye Salmon,Muchalat
+962,962,Vancouver Island & Mainland Inlets,5,59,WCVI - Other Sockeye Salmon,Muriel
+963,963,Vancouver Island & Mainland Inlets,5,59,WCVI - Other Sockeye Salmon,Nitinat
+964,964,Vancouver Island & Mainland Inlets,5,59,WCVI - Other Sockeye Salmon,O'Connell
+966,966,Vancouver Island & Mainland Inlets,5,59,WCVI - Other Sockeye Salmon,Park River
+967,967,Vancouver Island & Mainland Inlets,5,59,WCVI - Other Sockeye Salmon,Power
+970,970,Vancouver Island & Mainland Inlets,5,59,WCVI - Other Sockeye Salmon,William-Brink
+329,329,Vancouver Island & Mainland Inlets,5,56,WCVI Chinook Salmon,West Vancouver Island-Nootka and Kyuquot (Fall x-1)
+330,330,Vancouver Island & Mainland Inlets,5,56,WCVI Chinook Salmon,West Vancouver Island-North (Fall x-1)
+328,328,Vancouver Island & Mainland Inlets,5,56,WCVI Chinook Salmon,West Vancouver Island-South (Fall x-1)
+977,977,Vancouver Island & Mainland Inlets,5,57,WCVI Chum Salmon,Northwest Vancouver Island
+978,978,Vancouver Island & Mainland Inlets,5,57,WCVI Chum Salmon,Southwest & West Vancouver Island
+979,979,Vancouver Island & Mainland Inlets,5,57,WCVI Chum Salmon,Upper Knight
+915,915,Vancouver Island & Mainland Inlets,5,58,WCVI Coho Salmon,Clayoquot
+913,913,Vancouver Island & Mainland Inlets,5,58,WCVI Coho Salmon,Juan de Fuca-Pachena
+914,914,Vancouver Island & Mainland Inlets,5,58,WCVI Coho Salmon,West Vancouver Island
+919,919,Vancouver Island & Mainland Inlets,5,60,WCVI Pink Salmon,Northwest Vancouver Island (even)
+918,918,Vancouver Island & Mainland Inlets,5,60,WCVI Pink Salmon,West Vancouver Island (even)
+925,925,Vancouver Island & Mainland Inlets,5,60,WCVI Pink Salmon,West Vancouver Island (odd)
