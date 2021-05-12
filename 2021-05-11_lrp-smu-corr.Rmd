@@ -96,7 +96,7 @@ kable(smu_med_cor, caption = "Median pairwise correlation in spawner abundance a
 
 ```
 
-Plot of within SMU correlations by species. Points are scaled to the number of CUs within a CU with the largest point equal to 25 CUs
+Plot of within SMU correlations by species. Points are scaled to the number of CUs within a SMU with the largest point equal to 25 CUs.
 
 ```{r, fig.align = "center", warning=FALSE, message=FALSE}
 ggplot(smu_cor, aes(x=species, y=avg_corr)) +
