@@ -106,3 +106,23 @@ ggplot(smu_cor, aes(x=species, y=avg_corr)) +
   xlab("Species") +
   ylab("Average within SMU \n correlation in spawner abundance") 
 ```
+
+```{r, fig.align = "center", warning=FALSE, message=FALSE}
+ggplot(smu_cor, aes(x=species, y=avg_corr)) +
+  geom_violin(trim=FALSE, fill="light grey")+
+  geom_dotplot(binaxis='y', stackdir='center', dotsize=smu_cor$no_CUs/25) +
+  theme_bw()+
+  xlab("Espèce") +
+  ylab("Moyenne au sein de la corrélation de l’UGS dans l’abondance des géniteurs") +
+    scale_x_discrete(name = "Espèce", 
+                      breaks=c("Chinook", "Chum", "Coho", "Pink", "Sockeye"),
+                      labels=c("Saumon chinook", 
+                               "Saumon kéta", 
+                               "Saumon coho",
+                               "Saumon rose",
+                               "Saumon rouge")) + 
+  theme(axis.title=element_text(size=8))
+
+
+  
+```
